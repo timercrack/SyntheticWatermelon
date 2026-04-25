@@ -1,4 +1,4 @@
-# SyntheticWatermelon
+# 合成大西瓜
 
 一个使用 **Kotlin + SurfaceView** 编写的 Android 原生“合成大西瓜”小游戏。
 
@@ -59,7 +59,7 @@
 .\gradlew.bat exportReleaseApk
 ```
 
-构建完成后，可导出发布包到 `build/release/合成大西瓜.apk`，当前版本号为 `1.0.0`。
+构建完成后，可导出发布包到 `build/release/合成大西瓜.apk`。
 
 ## 许可证
 
